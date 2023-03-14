@@ -1,7 +1,7 @@
 # test2
 ```
 fast-forward
-merge --no-ff
+merge --no-ff (no fast forward)
 rebase
 ```
 
